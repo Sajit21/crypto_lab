@@ -1,3 +1,5 @@
+//finds the primitive root of any number
+
 #include<bits/stdc++.h>
 using namespace std;
 bool isprimenumber(int n){
