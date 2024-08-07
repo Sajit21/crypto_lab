@@ -1,3 +1,5 @@
+//normal push on rail fance cipher
+
 //this code rarely works on any code application.
 // simply run on online complier
 
