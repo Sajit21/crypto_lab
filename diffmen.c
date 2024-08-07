@@ -1,4 +1,4 @@
-//basically runs on application
+//basically runs on application 
 
 #include <stdio.h>
 
