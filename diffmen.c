@@ -1,3 +1,5 @@
+//basically runs on application
+
 #include <stdio.h>
 
 // Function to calculate (a^b) % mod
