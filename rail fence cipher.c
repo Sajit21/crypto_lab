@@ -1,3 +1,8 @@
+//this code rarely works on any code application.
+// simply run on online complier
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
