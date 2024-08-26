@@ -1,4 +1,5 @@
 //basically runs on application 
+//applicable for it
 
 #include <stdio.h>
 
