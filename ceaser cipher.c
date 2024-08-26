@@ -1,4 +1,6 @@
 //some mathematical question was provided as a academic task
+//normal task on it
+
 
 #include<stdio.h>
 #include<math.h>
